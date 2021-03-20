@@ -1,4 +1,4 @@
-# dbpedia_lookup_library
+# DBpedia Lookup Library
 
 Небольшой скрипт для работы с DBpedia Lookup Service.
 
